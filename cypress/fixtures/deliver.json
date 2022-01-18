@@ -1,0 +1,52 @@
+{
+    "signup":{
+        "name": "Nathalia Fernandes",
+        "cpf": "11986690717",
+        "email": "nath@testes.com.br",
+        "whatsapp": "21992087652",
+        "address": {
+            "postalcode": "22735080",
+            "street": "Rua Virgínia Vidal",
+            "number": "112",
+            "details": "casa 3",
+            "district": "Tanque",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "João Lucas",
+        "cpf": "419866907AA",
+        "email": "teeste@testes.com.br",
+        "whatsapp": "11992087600",
+        "address": {
+            "postalcode": "22735080",
+            "street": "Rua Virgínia Vidal",
+            "number": "112",
+            "details": "casa 3",
+            "district": "Tanque",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+            "name": "Pedro Fernandes",
+            "cpf": "11986690717",
+            "email": "pedro.com.br",
+            "whatsapp": "21992087652",
+            "address": {
+                "postalcode": "22735080",
+                "street": "Rua Virgínia Vidal",
+                "number": "112",
+                "details": "casa 3",
+                "district": "Tanque",
+                "city_state": "Rio de Janeiro/RJ"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+
+
+}
